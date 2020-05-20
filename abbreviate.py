@@ -7,7 +7,8 @@ with open('codings.txt') as f:
         abbr[splt[0]] = splt[1]
 
 acronyms = {'Plos': 'PLoS', 'Jama': 'JAMA', 'Bmc': 'BMC', 'Nmr': 'NMR',
-            'Bmj': 'BMJ', 'Ieee': 'IEEE', 'Bba': 'BBA', 'Pm\&r': 'PMR'}
+            'Bmj': 'BMJ', 'Ieee': 'IEEE', 'Bba': 'BBA', 'Pm\&r': 'PMR',
+            'New York': 'NY'}
 
 new_ref = []
 
