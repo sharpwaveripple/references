@@ -144,3 +144,6 @@ neuropharmacological,neuropharmacol
 pharmacology,pharmacol
 neuropharmacology,neuropharmacol
 systematic,syst
+hospital,hosp
+clinics,clin
+america,am
